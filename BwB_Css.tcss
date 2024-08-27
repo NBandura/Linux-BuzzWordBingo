@@ -1,0 +1,65 @@
+
+.bingo-grid {
+    layout: grid;
+    border: dodgerblue;
+  
+   
+}
+
+.bingo-button.strikethrough{
+    text-style: strike;
+    background: red;
+    border: grey;
+    link-background-hover: red;
+}
+Horizontal > VerticalScroll {
+    width: 24;
+}
+
+.Joker{
+    text-style: strike;
+    background: red;
+    border: grey;
+    link-background-hover: red;
+    width: 100%;
+    align-horizontal: center;
+    min-width: 5;
+    min-height:5;
+}
+
+
+.bingoconf{
+    background: yellow;
+    width: 20%;
+    border: black;
+    link-color-hover: yellow;
+    min-width: 5;
+    min-height:5;
+}
+
+.bingo-button{
+    background: green;
+    width: 100%;
+    align-horizontal: center;
+    border: black;
+    link-color-hover: yellow;
+    min-width: 5;
+    min-height:5;    
+}
+
+.quit-button{
+    background: red;
+    margin-top: 1;
+    width: 20%;
+    border: black;
+    link-color-hover: yellow;
+    min-width: 5;
+    min-height:5;
+}
+
+.header {
+    background: grey;
+    height: 3;
+    
+}
+
